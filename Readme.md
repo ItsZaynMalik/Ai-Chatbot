@@ -15,7 +15,7 @@
 
 **__Dependencies__**
 
-- Discord.js & Node-fetch
+- [Discord.js](https://npmjs.com/discord.js) & [Node-fetch](https://npmjs.com/node-fetch)
 
 **__Tools__**
 
