@@ -1,8 +1,8 @@
-**__Ai Chatbot__**
+9**__Ai Chatbot__**
 
 > An simple aichatbot using brainshop api
 
-- Coded by `Zayn#9478`-`Dhananjay´
+- Coded by `Zayn#9478`- Dhananjay
 
 - This is just an simple code. If you need multiguilded star the repo!
 
